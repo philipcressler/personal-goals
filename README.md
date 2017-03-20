@@ -26,7 +26,7 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 - [ ] Fix a few bugs on my personal site
 - [ ] Preliminary research on a new side-project
 
-### Other Objectives:
+### Other stuff:
 - [ ] Pay state taxes
 - [ ] Download and start using a budgeting app
 - [ ] Do a stretching video before bed everyday
