@@ -13,11 +13,11 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 - [ ] Monetize a side-project
 - [ ] Make a contribution to a **large** open source project
 - [ ] Do 5 30-day challenges
- - [ ] 30 Days without Caffeine
- - [ ] 30 Days of Writing 1000 Words a Day
- - [ ] 30 Days of Waking up at 5am
- - [ ] 30 Days of Daily Meditation
- - [ ] 30 Days of No Video Games
+  - [ ] 30 Days without Caffeine
+  - [ ] 30 Days of Writing 1000 Words a Day
+  - [ ] 30 Days of Waking up at 5am
+  - [ ] 30 Days of Daily Meditation
+  - [ ] 30 Days of No Video Games
 
 ## Weekly Review: March 19, 2017
 
