@@ -22,7 +22,7 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 ## Weekly Review: March 19, 2017
 
 ### Primary 3 Objectives:
-- [ ] Publish blog post about building a RetroPie
+- [X] Publish blog post about building a RetroPie
 - [ ] Fix a few bugs on my personal site
 - [ ] Preliminary research on a new side-project
 
