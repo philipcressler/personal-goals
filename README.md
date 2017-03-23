@@ -7,10 +7,20 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 ## 2017 Goals
 
 - [ ] Publish two blog posts a month on my [personal blog](https://cressler.io)
+    - [X] March
+    - [ ] April
+    - [ ] May
+    - [ ] June
+    - [ ] July
+    - [ ] August
+    - [ ] September
+    - [ ] October
+    - [ ] November
+    - [ ] December
 - [ ] Immerse myself in the React.js ecosystem
 - [ ] Read 24 books from my reading list
 - [ ] Continue weightlifting & eating consistently and hit 195lb bodyweight at <13% bodyfat.
-- [ ] Monetize a side-project
+- [ ] Monetize a side-project at $300+/month
 - [ ] Make a contribution to a **large** open source project
 - [ ] Do 5 30-day challenges
   - [ ] 30 Days without Caffeine
@@ -24,7 +34,12 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 ### Primary 3 Objectives:
 - [X] Publish blog post about building a RetroPie
 - [ ] Fix a few bugs on my personal site
+    - [X] add theme color meta-tag
+    - [ ] leverage browser caching
+    - [ ] fix swapped social links
 - [ ] Preliminary research on a new side-project
+    - [ ] niche?
+    - [ ] viability test?
 
 ### Other stuff:
 - [ ] Pay state taxes
