@@ -29,20 +29,15 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
   - [ ] 30 Days of Daily Meditation
   - [ ] 30 Days of No Video Games
 
-## Weekly Review: March 19, 2017
+## Weekly Review: March 27, 2017
 
 ### Primary 3 Objectives:
-- [X] Publish blog post about building a RetroPie
-- [ ] Fix a few bugs on my personal site
-    - [X] add theme color meta-tag
-    - [ ] leverage browser caching
-    - [ ] fix swapped social links
-- [ ] Preliminary research on a new side-project
-    - [ ] niche?
-    - [ ] viability test?
+- [ ] Side project ideation
+- [ ] Secret pursuit (2 a day)
+- [ ] Build a subscribe page for personal blog (with optins & shit)
 
 ### Other stuff:
 - [ ] Pay state taxes
-- [ ] Download and start using a budgeting app
 - [ ] Do a stretching video before bed everyday
-- [ ] Minor edits on Cosy's blog
+- [ ] Review finances at end of month
+
