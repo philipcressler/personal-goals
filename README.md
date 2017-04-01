@@ -32,12 +32,13 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 ## Weekly Review: March 27, 2017
 
 ### Primary 3 Objectives:
-- [ ] Side project ideation
-- [ ] Secret pursuit (2 a day)
+- [X] Side project ideation
+- [X] Secret pursuit (2 a day)
 - [ ] Build a subscribe page for personal blog (with optins & shit)
 
 ### Other stuff:
 - [ ] Pay state taxes
+- [ ] Print payment voucher
 - [ ] Do a stretching video before bed everyday
 - [ ] Review finances at end of month
 
