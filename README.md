@@ -41,4 +41,4 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 	- [ ] Print payment voucher
 - [ ] Keep track of macronutrient intake
 - [ ] Start new workout routine
-
+- [ ] Take some halfway decent profile pics for Github/Twitter/etc
