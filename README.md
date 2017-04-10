@@ -29,16 +29,17 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
   - [ ] 30 Days of Daily Meditation
   - [ ] 30 Days of No Video Games
 
-## Weekly Review: April 2, 2017
+## Weekly Review: April 10, 2017
 
 ### Primary 3 Objectives:
-- [ ] Build a subscribe page for personal blog (with optins & shit)
-- [ ] Secret project (2 a day)
-- [ ] Architect data structure & user flow & interface for side project.
+- [ ] Secret project (1 a day)
+- [ ] Side Project work:
+    - [ ] Update user fields
+    - [ ] Billing api
+    - [ ] Dashboard prototype
 
 ### Other stuff:
-- [X] Pay state taxes
-	- [X] Print payment voucher
-- [ ] Keep track of macronutrient intake
-- [ ] Start new workout routine
-- [ ] Take some halfway decent profile pics for Github/Twitter/etc
+- [ ] Do romwod every night
+- [ ] Track macros
+- [ ] Keep working out
+- [ ] Finish book
