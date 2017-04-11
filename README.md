@@ -39,6 +39,8 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
     - [ ] Dashboard prototype
 
 ### Other stuff:
+- [ ] Make mealplan
+- [ ] Goal-oriented workout routine (SWOLE N FLEXY AYYY)
 - [ ] Do romwod every night
 - [ ] Track macros
 - [ ] Keep working out
