@@ -33,15 +33,12 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 
 ### Primary 3 Objectives:
 - [ ] Secret project (1 a day)
-- [ ] Side Project work:
-    - [ ] Update user fields
-    - [ ] Billing api
-    - [ ] Dashboard prototype
+- [ ] Infographics for Moissy article
+- [ ] Recipe Blog Template
 
 ### Other stuff:
 - [ ] Make mealplan
-- [ ] Goal-oriented workout routine (SWOLE N FLEXY AYYY)
 - [ ] Do romwod every night
 - [ ] Track macros
-- [ ] Keep working out
-- [ ] Finish book
+- [ ] Work on personal manifesto
+
