@@ -29,12 +29,12 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
   - [ ] 30 Days of Daily Meditation
   - [ ] 30 Days of No Video Games
 
-## Weekly Review: April 10, 2017
+## Weekly Review: April 24, 2017
 
 ### Primary 3 Objectives:
-- [ ] Secret project (1 a day)
-- [ ] Infographics for Moissy article
+- [ ] Secret project (7 for the week)
 - [ ] Recipe Blog Template
+- [ ] Short blog post
 
 ### Other stuff:
 - [ ] Make mealplan
