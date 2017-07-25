@@ -10,7 +10,7 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
     - [X] March
     - [X] April
     - [X] May
-    - [ ] June
+    - [X] June
     - [ ] July
     - [ ] August
     - [ ] September
