@@ -1,4 +1,4 @@
-# Personal Goals
+# Personal Goals!
 
 I've decided to open source my personal goals and weekly reviews. Why? Accessibility, transparency, accountability and of course, versioning.
 
