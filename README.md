@@ -40,5 +40,5 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 - [ ] Make mealplan
 - [ ] Do romwod every night
 - [ ] Track macros
-- [ ] Work on personal manifesto
+- [X] Work on personal manifesto
 
