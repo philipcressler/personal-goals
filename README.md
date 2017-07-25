@@ -9,7 +9,7 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 - [ ] Publish two blog posts a month on my [personal blog](https://cressler.io)
     - [X] March
     - [X] April
-    - [ ] May
+    - [X] May
     - [ ] June
     - [ ] July
     - [ ] August
