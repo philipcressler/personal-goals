@@ -17,7 +17,7 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
     - [ ] October
     - [ ] November
     - [ ] December
-- [X] Immerse myself in the React.js ecosystem
+- [ ] Immerse myself in the React.js ecosystem
 - [ ] Read 24 books from my reading list
 - [ ] Continue weightlifting & eating consistently and hit 195lb bodyweight at <13% bodyfat.
 - [ ] Monetize a side-project at $300+/month
