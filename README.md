@@ -33,7 +33,7 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 ## Weekly Review: April 24, 2017
 
 ### Primary 3 Objectives:
-- [ ] Secret project (7 for the week)
+- [X] Secret project (7 for the week)
 - [ ] Recipe Blog Template
 - [ ] Short blog post
 
