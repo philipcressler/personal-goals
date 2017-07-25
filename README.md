@@ -11,7 +11,7 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
     - [X] April
     - [X] May
     - [X] June
-    - [ ] July
+    - [X] July
     - [ ] August
     - [ ] September
     - [ ] October
