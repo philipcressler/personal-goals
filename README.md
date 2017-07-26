@@ -1,7 +1,6 @@
 # Personal Goals!
 I've decided to open source my personal goals and weekly reviews. Why? Accessibility, transparency, accountability and of course, versioning.
 
-
 I'm hoping that when I have some downtime I'll check this repo and it'll act as a gentle kick the ass to get more stuff done.
 
 ## 2017 Goals
