@@ -3,6 +3,7 @@ I've decided to open source my personal goals and weekly reviews. Why? Accessibi
 
 I'm hoping that when I have some downtime I'll check this repo and it'll act as a gentle kick the ass to get more stuff done.
 
+
 ## 2017 Goals
 - [ ] Publish two blog posts a month on my [personal blog](https://cressler.io)
     - [X] March
