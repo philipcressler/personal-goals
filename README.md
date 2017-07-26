@@ -5,7 +5,6 @@ I'm hoping that when I have some downtime I'll check this repo and it'll act as 
 
 ## 2017 Goals
 
-
 - [ ] Publish two blog posts a month on my [personal blog](https://cressler.io)
     - [X] March
     - [X] April
